@@ -16,4 +16,5 @@ Ubah kalimat <b><i>LETAKKAN API KAMU DISINI</i></b> dengan API google maps kamu.
 
 This project using Android Studio 2.2.2 version with gradle version 2.14.1 <br>
 Tampilan akan seperti berikut : <br>
-![ezgif com-video-to-gif](https://cloud.githubusercontent.com/assets/24487280/22593238/3b87dec2-ea50-11e6-96b4-d54046c7f7cf.gif)
+
+![fdskee](https://cloud.githubusercontent.com/assets/24487280/22594624/75e5c7ae-ea56-11e6-9600-f3183cd1b4a7.gif)
